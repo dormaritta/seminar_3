@@ -1,0 +1,15 @@
+D:\GeekBrains\MyProgramms\seminar_3\xy3\bin\Debug\net6.0\xy3.exe
+D:\GeekBrains\MyProgramms\seminar_3\xy3\bin\Debug\net6.0\xy3.deps.json
+D:\GeekBrains\MyProgramms\seminar_3\xy3\bin\Debug\net6.0\xy3.runtimeconfig.json
+D:\GeekBrains\MyProgramms\seminar_3\xy3\bin\Debug\net6.0\xy3.dll
+D:\GeekBrains\MyProgramms\seminar_3\xy3\bin\Debug\net6.0\xy3.pdb
+D:\GeekBrains\MyProgramms\seminar_3\xy3\obj\Debug\net6.0\xy3.csproj.AssemblyReference.cache
+D:\GeekBrains\MyProgramms\seminar_3\xy3\obj\Debug\net6.0\xy3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\MyProgramms\seminar_3\xy3\obj\Debug\net6.0\xy3.AssemblyInfoInputs.cache
+D:\GeekBrains\MyProgramms\seminar_3\xy3\obj\Debug\net6.0\xy3.AssemblyInfo.cs
+D:\GeekBrains\MyProgramms\seminar_3\xy3\obj\Debug\net6.0\xy3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\MyProgramms\seminar_3\xy3\obj\Debug\net6.0\xy3.dll
+D:\GeekBrains\MyProgramms\seminar_3\xy3\obj\Debug\net6.0\refint\xy3.dll
+D:\GeekBrains\MyProgramms\seminar_3\xy3\obj\Debug\net6.0\xy3.pdb
+D:\GeekBrains\MyProgramms\seminar_3\xy3\obj\Debug\net6.0\xy3.genruntimeconfig.cache
+D:\GeekBrains\MyProgramms\seminar_3\xy3\obj\Debug\net6.0\ref\xy3.dll

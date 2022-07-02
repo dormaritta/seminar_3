@@ -1,0 +1,15 @@
+D:\GeekBrains\MyProgramms\seminar_3\xy\bin\Debug\net6.0\xy.exe
+D:\GeekBrains\MyProgramms\seminar_3\xy\bin\Debug\net6.0\xy.deps.json
+D:\GeekBrains\MyProgramms\seminar_3\xy\bin\Debug\net6.0\xy.runtimeconfig.json
+D:\GeekBrains\MyProgramms\seminar_3\xy\bin\Debug\net6.0\xy.dll
+D:\GeekBrains\MyProgramms\seminar_3\xy\bin\Debug\net6.0\xy.pdb
+D:\GeekBrains\MyProgramms\seminar_3\xy\obj\Debug\net6.0\xy.csproj.AssemblyReference.cache
+D:\GeekBrains\MyProgramms\seminar_3\xy\obj\Debug\net6.0\xy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\MyProgramms\seminar_3\xy\obj\Debug\net6.0\xy.AssemblyInfoInputs.cache
+D:\GeekBrains\MyProgramms\seminar_3\xy\obj\Debug\net6.0\xy.AssemblyInfo.cs
+D:\GeekBrains\MyProgramms\seminar_3\xy\obj\Debug\net6.0\xy.csproj.CoreCompileInputs.cache
+D:\GeekBrains\MyProgramms\seminar_3\xy\obj\Debug\net6.0\xy.dll
+D:\GeekBrains\MyProgramms\seminar_3\xy\obj\Debug\net6.0\refint\xy.dll
+D:\GeekBrains\MyProgramms\seminar_3\xy\obj\Debug\net6.0\xy.pdb
+D:\GeekBrains\MyProgramms\seminar_3\xy\obj\Debug\net6.0\xy.genruntimeconfig.cache
+D:\GeekBrains\MyProgramms\seminar_3\xy\obj\Debug\net6.0\ref\xy.dll
